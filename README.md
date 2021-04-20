@@ -42,6 +42,7 @@ minikube start
 ```
 kubectl config view
 kubectl get nodes
+kubectl get pods --all-namespaces
 ```
 
 #### Dashboard
